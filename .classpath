@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episode 24_final/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 1-3/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 10/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 11/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 12/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 13/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 14/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 15/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 16/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 17/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 18/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 19/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 20/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 21/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 22/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 23/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 4/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 5/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 6/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 7/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 8/src"/>
+	<classpathentry kind="src" path="SpaceShipGame-master/Space Ship Game episodio 9/src"/>
+	<classpathentry kind="lib" path="SpaceShipGame-master/Space Ship Game episode 24_final/Game.jar"/>
+	<classpathentry kind="lib" path="SpaceShipGame-master/Space Ship Game episode 24_final/json-20180813.jar"/>
+	<classpathentry kind="lib" path="SpaceShipGame-master/Space Ship Game episodio 23/json-20180813.jar"/>
+	<classpathentry kind="output" path="SpaceShipGame-master/Space Ship Game episode 24_final/bin"/>
+</classpath>
